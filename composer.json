@@ -1,0 +1,13 @@
+{
+    "name": "caseyw/php-bounce-handler",
+    "type" : "library",
+    "authors": [
+        {
+            "name": "Chris Fortune",
+            "email": "dunno@example.com"
+        }
+    ],
+    "require": {
+
+    }
+}
